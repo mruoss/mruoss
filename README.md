@@ -1,5 +1,7 @@
 # 👋🏻 Hey there, it's Michael
 
+[![GitHub Sponsor](https://img.shields.io/github/sponsors/mruoss?label=Sponsor&logo=GitHub)](https://github.com/sponsors/mruoss)
+
 Hey there, I'm Michael, a full-stack and platform engineer from Zurich, Switzerland. I spend a great deal of my time contributing to widely used Elixir libraries. 
 
 [![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=mruoss&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
